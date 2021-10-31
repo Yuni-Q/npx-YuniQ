@@ -1,11 +1,11 @@
-# npx-jbee
+# npx-yuniq
 
 [![npm version](https://badge.fury.io/js/jbee.svg)](https://badge.fury.io/js/jbee)
 [![custom badge](https://img.shields.io/badge/introduce-myself-orange)](https://img.shields.io/badge/introduce-myself-orange)
 [![jbee about](https://img.shields.io/badge/about-jbee-yellow)](https://jbee.io/about)
 
 ```sh
-$ npx jbee
+$ npx yuniq
 ```
 
 <div align="center">

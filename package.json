@@ -1,6 +1,6 @@
 {
 	"name": "yuniq",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "About yuniq cli",
 	"main": "index.js",
 	"bin": {
